@@ -1,0 +1,85 @@
+https://linuxhint.com/bash_operator_examples/
+https://www.geeksforgeeks.org/basic-operators-in-shell-scripting/
+
+https://www.binarytides.com/linux-commands-hardware-info/
+
+https://www.cyberciti.biz/tips/linux-unix-get-yesterdays-tomorrows-date.html
+https://en.wikipedia.org/wiki/Internet_of_things
+
+
+
+https://www.thegeekdiary.com/understanding-basic-file-permissions-and-ownership-in-linux/
+https://www.oreilly.com/library/view/linux-pocket-guide/9780596806347/re44.html
+
+--Disks and File System Permissions
+https://www.thegeekdiary.com/how-to-backup-linux-os-using-dd-command/#:~:text=2.,everything%20using%20synchronized%20I%2FO.
+https://askubuntu.com/questions/709716/resize-vm-partition-without-erasing-data
+
+
+
+--Processes, Services and Performance Management
+https://phoenixnap.com/kb/how-to-kill-a-process-in-linux
+https://www.booleanworld.com/kill-process-linux/
+https://www.tutorialspoint.com/unix/unix-signals-traps.htm
+https://cloudchef.medium.com/linux-process-states-and-signals-a967d18fab64
+
+--Managing Users and Groups
+https://www.pluralsight.com/guides/user-and-group-management-linux
+https://www.linux.com/topic/desktop/how-manage-users-groups-linux/
+https://www.tecmint.com/manage-users-and-groups-in-linux/
+https://www.eurovps.com/blog/important-linux-log-files-you-must-be-monitoring/
+https://www.tecmint.com/find-failed-ssh-login-attempts-in-linux/
+
+
+-- all abount networking linux commands
+https://software.opensuse.org/package/net-tools-deprecated
+
+https://www.siteground.com/kb/dns_records_ns_a_mx_cname_spf_explained/
+https://en.wikipedia.org/wiki/List_of_DNS_record_types
+https://datatracker.ietf.org/doc/html/rfc4252
+https://en.wikipedia.org/wiki/OpenSSH
+https://devhints.io/scp
+
+
+--iptables firewall
+https://www.udemy.com/course/complete-linux-command-line-and-terminal-productivity/
+https://en.wikipedia.org/wiki/Netfilter
+
+
+--Sysdig: Deep System Visibility
+https://github.com/draios/sysdig/wiki/How-to-Install-Sysdig-for-Linux
+https://www.youtube.com/watch?v=LqQw5ewhRl4
+https://www.lua.org/about.html
+https://github.com/draios/sysdig/wiki/Chisels-User-Guide
+https://www.linux-magazine.com/Issues/2018/209/The-sys-admin-s-daily-grind-Sysdig
+https://www.digitalocean.com/community/tutorials/how-to-monitor-your-ubuntu-16-04-system-with-sysdig
+
+https://dzone.com/articles/troubleshooting-with-an-interactive-drill-down-in
+https://en.wikipedia.org/wiki/System_call
+
+
+--Shell Scripting and Task Automation
+https://devhints.io/cron
+https://crontab.guru/
+
+--BASH Scripting
+https://devhints.io/bash
+https://linuxconfig.org/bash-scripting-tutorial-for-beginners
+https://linuxhint.com/30_bash_script_examples/
+https://github.com/nmeum/tpm/blob/master/tpm
+
+--Second Booting Linux: Windows Subsystem for Linux
+https://github.com/romkatv/powerlevel10k
+https://github.com/zsh-users/zsh-autosuggestions
+https://github.com/ohmyzsh/ohmyzsh
+https://github.com/zsh-users/zsh-syntax-highlighting
+https://www.nerdfonts.com/font-downloads
+
+
+https://docs.microsoft.com/en-us/archive/blogs/wsl/windows-subsystem-for-linux-overview
+https://devblogs.microsoft.com/commandline/a-deep-dive-into-how-wsl-allows-windows-to-access-linux-files/
+https://devblogs.microsoft.com/commandline/learn-about-windows-console-and-windows-subsystem-for-linux-wsl/#documentation
+
+https://www.microsoft.com/en-us/software-download/windows10
+https://docs.microsoft.com/en-us/windows/wsl/install-win10
+https://docs.microsoft.com/en-us/windows/wsl/compare-versions

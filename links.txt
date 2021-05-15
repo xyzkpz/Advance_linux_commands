@@ -1,0 +1,15 @@
+https://en.wikipedia.org/wiki/List_of_software_package_management_systems
+https://github.com/gpakosz/.tmux
+https://github.com/ohmyzsh/ohmyzsh
+https://github.com/gnome-terminator/terminator
+
+
+
+https://www.ochobitshacenunbyte.com/wp-content/uploads/2018/05/Zypper-cheat-sheet.pdf
+https://access.redhat.com/sites/default/files/attachments/rh_yum_cheatsheet_1214_jcs_print-1.pdf
+
+https://www.cyberciti.biz/faq/ubuntu-lts-debian-linux-apt-command-examples/
+
+
+
+https://www.redhat.com/sysadmin/linux-tools-dmidecode
